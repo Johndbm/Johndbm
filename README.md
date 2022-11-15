@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 <img src="https://raw.githubusercontent.com/Johndbm/Johndbm/main/wave.gif" width="30">
 
 <!--
 **Johndbm/johndbm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Johndbm.Johndbm)
