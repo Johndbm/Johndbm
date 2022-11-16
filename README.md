@@ -7,6 +7,11 @@
     I'm also interested in Data Science and hoping soon to break into Data Analytics!
     ,,,
 
+---
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/Johndbm/)
+
+---
+
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning Fullstack Web Development with technologies like html,css,bootstrap,javascript
 - 👯 I’m looking to collaborate on positive impact projects
@@ -18,17 +23,17 @@
 ---
 
 # Skills
-<a>
-    <img href="https://www.w3.org/TR/html5/" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<a href="https://www.w3.org/TR/html5/">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 </a>
-<a>
-    <img href="https://developer.mozilla.org/en-US/docs/Web/CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </a>
-<a>
-    <img href="https://getbootstrap.com/" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<a href="https://getbootstrap.com/">
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </a>
-<a>
-    <img href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </a>
 
 
@@ -39,17 +44,17 @@
 -->
 
 # Tools
-<a>
-    <img href="https://git-scm.com/" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+<a href="https://git-scm.com/">
+    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 </a>
-<a>
-    <img href="https://github.com/" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a>
-    <img href="https://code.visualstudio.com/" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+<a href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </a>
-<a>
-    <img href="https://gitpod.io" src="https://img.shields.io/badge/Gitpod-000000?style=for-the-badge&logo=gitpod&logoColor=#FFAE33"/>
+<a href="https://gitpod.io">
+    <img src="https://img.shields.io/badge/Gitpod-000000?style=for-the-badge&logo=gitpod&logoColor=#FFAE33"/>
 </a>
 
 
@@ -58,8 +63,10 @@
 <p align="center">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=Johndbm.Johndbm">
 </p>
-   <img align="left" width="239" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johndbm&theme=blue-green">
-   <img align="right" width="300" src="https://github-readme-stats.vercel.app/api?username=johndbm&theme=blue-green">
+<p align="center">
+   <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johndbm&theme=blue-green">
+   <img width="300" src="https://github-readme-stats.vercel.app/api?username=johndbm&theme=blue-green">
+</p>
 
 <!--![Top-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johndbm&theme=blue-green)
 ![Stats](https://github-readme-stats.vercel.app/api?username=johndbm&theme=blue-green)
