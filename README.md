@@ -1,7 +1,7 @@
 # Hi there my name is John <img src="https://raw.githubusercontent.com/Johndbm/Johndbm/main/wave.gif" width="30">
 ## Full Stack Web Development [Student] 👨🏽‍💻
-I started studying web development at 4geeks academy bootcamp on October, 2022. With the main goal of participating in collaborative projects with amazing teams to keep learning and growing in tech! 
-I'm also interested in Data Science and hoping soon to break into Data Analytics!
+    I started studying web development at 4geeks academy bootcamp on October, 2022. With the main goal of participating in collaborative projects with amazing teams to keep learning and growing in tech! 
+    I'm also interested in Data Science and hoping soon to break into Data Analytics!
 
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning Fullstack Web Development with technologies like html,css,bootstrap,javascript
