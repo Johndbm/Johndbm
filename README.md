@@ -3,7 +3,9 @@
     I started studying web development at 4geeks academy bootcamp on October, 2022. 
     With the main goal of participating in collaborative projects with amazing teams to keep
     learning and growing in tech! 
+    
     I'm also interested in Data Science and hoping soon to break into Data Analytics!
+    ,,,
 
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning Fullstack Web Development with technologies like html,css,bootstrap,javascript
@@ -16,10 +18,19 @@
 ---
 
 # Skills
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<a>
+    <img href="https://www.w3.org/TR/html5/" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+</a>
+<a>
+    <img href="https://developer.mozilla.org/en-US/docs/Web/CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</a>
+<a>
+    <img href="https://getbootstrap.com/" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</a>
+<a>
+    <img href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</a>
+
 
 <!-- Pending to activate
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -28,10 +39,20 @@
 -->
 
 # Tools
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Gitpod](https://img.shields.io/badge/Gitpod-000000?style=for-the-badge&logo=gitpod&logoColor=#FFAE33)
+<a>
+    <img href="https://git-scm.com/" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+</a>
+<a>
+    <img href="https://github.com/" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a>
+    <img href="https://code.visualstudio.com/" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+</a>
+<a>
+    <img href="https://gitpod.io" src="https://img.shields.io/badge/Gitpod-000000?style=for-the-badge&logo=gitpod&logoColor=#FFAE33"/>
+</a>
+
+
 
 # Github Stats
 <p align="center">
