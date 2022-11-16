@@ -8,7 +8,10 @@
     ,,,
 
 ---
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/Johndbm/)
+
+<a href="https://www.linkedin.com/in/Johndbm/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 ---
 
@@ -65,7 +68,9 @@
 </p>
 <p align="center">
    <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johndbm&theme=blue-green">
-   <img width="300" src="https://github-readme-stats.vercel.app/api?username=johndbm&theme=blue-green">
+</p>
+<p align="center">
+    <img width="300" src="https://github-readme-stats.vercel.app/api?username=johndbm&theme=blue-green">
 </p>
 
 <!--![Top-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johndbm&theme=blue-green)
