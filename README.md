@@ -1,5 +1,16 @@
-# Hi there my name is John Banks <img src="https://raw.githubusercontent.com/Johndbm/Johndbm/main/wave.gif" width="30">
-## Full Stack Web Development Student 👨🏽‍💻
+# Hi there my name is John <img src="https://raw.githubusercontent.com/Johndbm/Johndbm/main/wave.gif" width="30">
+## Full Stack Web Development [Student] 👨🏽‍💻
+I started studying web development at 4geeks academy bootcamp on October, 2022. With the main goal of participating in collaborative projects with amazing teams to keep learning and growing in tech! 
+I'm also interested in Data Science and hoping soon to break into Data Analytics!
+
+<!-- - 🔭 I’m currently working on ... -->
+- 🌱 I’m currently learning Fullstack Web Development with technologies like html,css,bootstrap,javascript
+- 👯 I’m looking to collaborate on positive impact projects
+<!-- - 🤔 I’m looking for help with ... -->
+<!-- - 💬 Ask me about ... -->
+- 📫 How to reach me: <a href="mailto:johndbm@outlook.com">click here!!</a>
+<!-- - ⚡ Fun fact: ... -->
+
 ---
 
 # Skills
@@ -21,7 +32,15 @@
 ![Gitpod](https://img.shields.io/badge/Gitpod-000000?style=for-the-badge&logo=gitpod&logoColor=#FFAE33)
 
 # Github Stats
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username={johndbm}&theme=blue-green)
+<p align="center">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Johndbm.Johndbm">
+</p>
+   <img align="left" width="239" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johndbm&theme=blue-green">
+   <img align="right" width="300" src="https://github-readme-stats.vercel.app/api?username=johndbm&theme=blue-green">
+
+<!--![Top-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johndbm&theme=blue-green)
+![Stats](https://github-readme-stats.vercel.app/api?username=johndbm&theme=blue-green)
+
 
 <!--
 **Johndbm/johndbm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -37,4 +56,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Johndbm.Johndbm)
