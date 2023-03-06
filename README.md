@@ -47,6 +47,9 @@
 <a href="https://flask.palletsprojects.com/en/2.2.x/">
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 </a>
+<a href="https://www.postgresql.org/">
+    <img src="https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql&logoColor=blue"/>
+</a>
 
 <!-- Pending to activate
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
