@@ -38,6 +38,9 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </a>
+<a href="https://jestjs.io/">
+    <img src="https://img.shields.io/badge/Jest-a25563?style=for-the-badge&logo=jest&logoColor=white"/>
+</a>
 <a href="https://reactjs.org/">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </a>
