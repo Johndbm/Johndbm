@@ -41,6 +41,9 @@
 <a href="https://reactjs.org/">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </a>
+<a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-0077B5?style=for-the-badge&logo=python&logoColor=FFAE33"/>
+</a>
 <a href="https://flask.palletsprojects.com/en/2.2.x/">
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 </a>
