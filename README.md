@@ -16,7 +16,7 @@
 ---
 
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning Fullstack Web Development with technologies like html,css,bootstrap,javascript
+- 🌱 I’m currently learning Fullstack Web Development with technologies like html,css,bootstrap,javascript,react,python,flask,SQL/posgres
 - 👯 I’m looking to collaborate on positive impact projects
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
@@ -38,7 +38,12 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </a>
-
+<a href="https://reactjs.org/">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</a>
+<a href="https://flask.palletsprojects.com/en/2.2.x/">
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+</a>
 
 <!-- Pending to activate
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
