@@ -54,10 +54,14 @@
     <img src="https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql&logoColor=blue"/>
 </a>
 
-<!-- Pending to activate
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
+<!-- Pending to achieve
+<a href="https://www.typescriptlang.org/">
+    <img src="https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=white"/>
+</a>
+###Template###
+<a href="<OfficialTechnologyWebsiteURL>">
+    <img src="https://img.shields.io/badge/TextToShowOnBadgeHere-ColorOfText?style=for-the-badge&logo=TechnologyLogoToShowHere&logoColor=LogoColor"/>
+</a>
 -->
 
 # Tools
