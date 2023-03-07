@@ -20,7 +20,7 @@
 - 👯 I’m looking to collaborate on positive impact projects
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: <a href="mailto:johndbm@outlook.com">click here!!</a>
+- 📨 How to reach me: <a href="mailto:johndbm@outlook.com">click here!!</a>
 <!-- - ⚡ Fun fact: ... -->
 
 ---
@@ -79,17 +79,18 @@
 </a>
 
 
-
-# Github Stats
-<p align="center">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=Johndbm.Johndbm">
-</p>
-<p align="center">
-   <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johndbm&theme=blue-green">
-</p>
-<p align="center">
-    <img width="300" src="https://github-readme-stats.vercel.app/api?username=johndbm&theme=blue-green">
-</p>
+<details>
+    <summary>Click here to check my Github Stats</summary>
+        <p align="center">
+            <img src="https://visitor-badge.laobi.icu/badge?page_id=Johndbm.Johndbm">
+        </p>
+        <p align="center">
+           <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johndbm&theme=blue-green">
+        </p>
+        <p align="center">
+            <img width="300" src="https://github-readme-stats.vercel.app/api?username=johndbm&theme=blue-green">
+        </p>
+</details>
 
 <!--![Top-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johndbm&theme=blue-green)
 ![Stats](https://github-readme-stats.vercel.app/api?username=johndbm&theme=blue-green)
